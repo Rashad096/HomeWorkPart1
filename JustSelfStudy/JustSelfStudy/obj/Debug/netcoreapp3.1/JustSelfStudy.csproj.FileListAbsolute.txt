@@ -1,0 +1,14 @@
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\bin\Debug\netcoreapp3.1\JustSelfStudy.exe
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\bin\Debug\netcoreapp3.1\JustSelfStudy.deps.json
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\bin\Debug\netcoreapp3.1\JustSelfStudy.runtimeconfig.json
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\bin\Debug\netcoreapp3.1\JustSelfStudy.runtimeconfig.dev.json
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\bin\Debug\netcoreapp3.1\JustSelfStudy.dll
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\bin\Debug\netcoreapp3.1\JustSelfStudy.pdb
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\obj\Debug\netcoreapp3.1\JustSelfStudy.csproj.AssemblyReference.cache
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\obj\Debug\netcoreapp3.1\JustSelfStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\obj\Debug\netcoreapp3.1\JustSelfStudy.AssemblyInfoInputs.cache
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\obj\Debug\netcoreapp3.1\JustSelfStudy.AssemblyInfo.cs
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\obj\Debug\netcoreapp3.1\JustSelfStudy.csproj.CoreCompileInputs.cache
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\obj\Debug\netcoreapp3.1\JustSelfStudy.dll
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\obj\Debug\netcoreapp3.1\JustSelfStudy.pdb
+C:\Users\abbas\source\repos\JustSelfStudy\JustSelfStudy\obj\Debug\netcoreapp3.1\JustSelfStudy.genruntimeconfig.cache
